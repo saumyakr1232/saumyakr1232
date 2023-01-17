@@ -1,9 +1,9 @@
 ### Hi there 👋
-
+<!-- 
   [![Saumya's Github Stats](https://github-readme-stats.vercel.app/api?username=saumyakr1232)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Saumya's Most Language used](https://github-readme-stats.vercel.app/api/top-langs?username=saumyakr1232&show_icons=true&locale=en&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs?username=saumyakr1232&show_icons=true&locale=en&layout=compact)
-
+ -->
 
 
 <h3 align="center"> 🙋🏽‍♂️About Me </h3>
